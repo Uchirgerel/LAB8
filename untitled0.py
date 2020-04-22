@@ -26,7 +26,6 @@ blacklist = [
 	'head', 
 	'input',
 	'script',
-	# there may be more elements you don't want, such as "style", etc.
 ]
 
 for t in text:
